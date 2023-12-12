@@ -1,5 +1,5 @@
 # Mateus Haas
 
-Sou engenheiro de software, pela PUCRS, sócio e CTO de quatro empresas: a Compliance Total, Compliance Station, Contato Seguro e a Sala 302. Na bagagem, trago viagens por mais de 16 países, participando de eventos de tecnologia e desbravando o mundo.
+Sou engenheiro de software, pela PUCRS, sócio e CTO de quatro empresas: a Contato Seguro, Compliance Total, Compliance Station e a Sala 302.
 
-Programo nas horas vagas (e nas ocupadas tb).
+Programo nas horas vagas - e nas ocupadas tb :)
